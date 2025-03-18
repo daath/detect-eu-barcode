@@ -1,0 +1,24 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+#app {
+    text-align: center;
+}
+
+#interactive {
+    width: 300px;
+    height: 300px;
+    overflow: hidden;
+    position: relative;
+}
+
+#result {
+    margin-top: 20px;
+    font-size: 1.2em;
+}
